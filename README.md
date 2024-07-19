@@ -1,2 +1,0 @@
-# Python-Internship
-Python internship
